@@ -1,4 +1,4 @@
-### TareaNo4
+# TareaNo4
 Utilizando estructura de control y funciones se ha creado una aplicacion en Python y C++ para realizar ciertas tareas o actividades.
 - El usuario podra elegir las siguientes opciones:
   - 1. Cálculo de Subsidio
